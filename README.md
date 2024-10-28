@@ -1,5 +1,9 @@
 # StratPal_paleoverse_materials
 
+<!-- badges: start -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14001502.svg)](https://doi.org/10.5281/zenodo.14001502)
+<!-- badges: end -->
+
 Materials and examples for the [Paleoverse](https://palaeoverse.org) lecture __"Building modeling pipelines for stratigraphic paleobiology in R"__ (Oct 31st 2024)
 
 ## Author
@@ -37,6 +41,12 @@ Other resources mentioned during the lecture are:
 * _Package webpages_:
   * `StratPal`: [mindthegap-erc.github.io/admtools/](https://mindthegap-erc.github.io/admtools/)
   * `admtools`: [mindthegap-erc.github.io/StratPal/](https://mindthegap-erc.github.io/StratPal/)
+  
+## Citation
+
+To cite this work, please use
+
+* Hohmann, N. (2024). Materials and examples for the Paleoverse lecture "Building modeling pipelines for stratigraphic paleobiology in R" (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.14001502
 
 ## Copyright
 
