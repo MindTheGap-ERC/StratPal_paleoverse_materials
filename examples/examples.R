@@ -14,6 +14,7 @@ library(paleoTS)
 # For more complex examples, see 
 # * https://mindthegap-erc.github.io/StratPal/articles/ (StratPal)
 # * https://mindthegap-erc.github.io/admtools/articles/ (admtools)
+# * Hohmann, N., Liu, X., & Jarochowska, E. (2024). Materials for workshop on building modeling pipelines in stratigraphic paleobiology (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.13769443 
 
 #### Piping ####
 ## We make use of the pipe operator |>, available in base R from v4.2 on
