@@ -32,7 +32,8 @@ Other resources mentioned during the lecture are:
 * _Interactive web application to explore stratigraphic paleobiology:_
   * Browser version: [DarwinCAT](https://stratigraphicpaleobiology.shinyapps.io/DarwinCAT/)
   * Github: [github.com/MindTheGap-ERC/DarwinCAT](https://github.com/MindTheGap-ERC/DarwinCAT)
-* _Open educational resources for a workshop on modeling stratigraphic paleobiology in R:_ Hohmann, N., Liu, X., & Jarochowska, E. (2024). Materials for workshop on building modeling pipelines in stratigraphic paleobiology (v1.0.0). Zenodo. [DOI: 10.5281/zenodo.13769443](https://doi.org/10.5281/zenodo.13769443)
+* _Open educational resources (OERs) for a workshop on modeling stratigraphic paleobiology in R:_ Hohmann, N., Liu, X., & Jarochowska, E. (2024). Materials for workshop on building modeling pipelines in stratigraphic paleobiology (v1.0.0). Zenodo. [DOI: 10.5281/zenodo.13769443](https://doi.org/10.5281/zenodo.13769443)
+* _Rudimentary shiny app showing transformation of phylogenetic trees using age-depth models_ : [github.com/MindTheGap-ERC/phylo_stratpal](https://github.com/MindTheGap-ERC/phylo_stratpal)
 * _Package webpages_:
   * `StratPal`: [mindthegap-erc.github.io/admtools/](https://mindthegap-erc.github.io/admtools/)
   * `admtools`: [mindthegap-erc.github.io/StratPal/](https://mindthegap-erc.github.io/StratPal/)
@@ -51,7 +52,7 @@ Apache 2.0 License, see LICENSE file for license text.
   * examples.R : coding examples shown during the interactive coding part of the lecture
 * renv: folder for `renv` package
 * .gitignore: untracked files
-* .Rprofile: r session settings
+* .Rprofile: R session settings
 * LICENSE: Apache 2.0 license text
 * README.md: Readme file
 * renv.lock: lock file for `renv` package
