@@ -41,6 +41,7 @@ Other resources mentioned during the lecture are:
 * _Package webpages_:
   * `StratPal`: [mindthegap-erc.github.io/admtools/](https://mindthegap-erc.github.io/admtools/)
   * `admtools`: [mindthegap-erc.github.io/StratPal/](https://mindthegap-erc.github.io/StratPal/)
+* _Project webpage_: [mindthegap-erc.github.io/](https://mindthegap-erc.github.io/)
   
 ## Citation
 
